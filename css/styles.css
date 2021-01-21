@@ -1,0 +1,381 @@
+.c{
+  position: absolute;
+  top: 120px;
+  left: 670px;
+}
+.background{
+  position: absolute;
+  left: 100px;
+}
+.h{
+  position: absolute;
+  top: 270px;
+  left: 490px;
+  font-size: 35px;
+  opacity: 70%;
+}
+.Clipboard{
+position: absolute;
+top:340px;
+left:500px;
+opacity:40%;
+width:480px;
+}
+.access{
+position: absolute;
+top: 360px;
+left: 600px;
+opacity: 40%;
+}
+.ios{
+  position: absolute;
+  top: 420px;
+  left: 570px;
+  border-radius: 20px;
+  height:30px;
+  width:150px;
+  background-color: hsl(171, 66%, 44%);
+
+}
+.mac{
+  position: absolute;
+  top: 420px;
+  left: 740px;
+  border-radius: 20px;
+  height: 30px;
+  width: 150px;
+  background-color: hsl(233, 100%, 69%);
+
+}
+.d-ios{
+  position: relative;
+  bottom: 10px;
+  left: 20px;
+color: white;
+
+}
+.d-mac{
+  position: relative;
+  bottom: 10px;
+  left: 20px;
+color: white;
+}
+.keep{
+  position: absolute;
+  top: 550px;
+  left: 590px;
+}
+.clipboard{
+position: absolute;
+left: 460px;
+top: 600px;
+width: 36%;
+}
+.org{
+  position: absolute;
+  left: 650px;
+  top: 635px;
+  width: 36%;
+  opacity: 50%;
+
+}
+.pc{
+position: absolute;
+top: 800px;
+right: 810px;
+
+}
+.quick{
+  position: absolute;
+  top: 860px;
+  right: 570px;
+}
+.easily{
+position: absolute;
+top:895px;
+left: 815px;
+width: 300px;
+opacity: 50%;
+
+}
+.iCloud{
+  position: absolute;
+  top: 1010px;
+  right: 580px;
+}
+.instantly{
+  position: absolute;
+  top:1045px;
+  left: 815px;
+  width: 300px;
+  opacity: 50%;
+
+}
+.Complete{
+  position: absolute;
+  top: 1175px;
+  right: 525px;
+}
+.Retrieve{
+  position: absolute;
+  top:1210px;
+  left: 815px;
+  width: 300px;
+  opacity: 50%;
+}
+.Access{
+  position: absolute;
+  top: 1500px;
+  left: 590px;
+
+}
+.Whether{
+  position: absolute;
+  left: 510px;
+  top: 1560px;
+  width: 36%;
+  opacity: 50%;
+}
+.snippets{
+  position:absolute;
+  top:1580PX;
+  left: 660px;
+  opacity: 50%;
+}
+.devices{
+  position: absolute;
+  top: 1750px;
+  left: 300px;
+}
+.Supercharge{
+  position: absolute;
+  top: 2400px;
+  left: 590px;
+}
+.we{
+  position: absolute;
+  left: 640px;
+  top: 2450px;
+  width: 36%;
+  opacity: 50%;
+
+}
+.papiros{
+  position: absolute;
+  top: 2600px;
+  left: 370px;
+}
+.blacklists{
+  position: absolute;
+  top: 2680px;
+  left: 310px;
+
+}
+.papiros-paragraph{
+  position: absolute;
+  top: 2720px;
+  left: 260px;
+  opacity: 50%;
+  width: 290px;
+}
+.sources{
+  position: absolute;
+  top: 2750px;
+left: 260px;
+  opacity: 50%;
+  width: 290px;
+  text-align: center;
+}
+.A{
+  position: absolute;
+  top: 2610px;
+  left: 750px;
+}
+.plain{
+
+  position: absolute;
+  top: 2680px;
+  left: 680px;
+
+}
+.A-paragraph{
+  position: absolute;
+  top: 2720px;
+  left: 630px;
+  opacity: 50%;
+  width: 310px;
+
+}
+.for{
+  position: absolute;
+  top: 2740px;
+  left: 710px;
+  opacity: 50%;
+  width: 310px;
+
+
+}
+.eye{
+
+  position: absolute;
+  top: 2610px;
+  left: 1100px;
+}
+.Sneak{
+  position: absolute;
+  top: 2680px;
+  left: 1050px;
+}
+.Q{
+  position: absolute;
+  top: 2720px;
+  left: 970px;
+opacity: 50%;
+  width: 310px;
+
+}
+.QA{
+  position: absolute;
+  top: 2740px;
+  left: 1070px;
+  opacity: 50%;
+}
+.google{
+position: absolute;
+top: 3000px;
+left: 250px;
+width:130px;
+
+}
+.ibm{
+  position: absolute;
+  top: 3000px;
+  left: 510px;
+  width:130px;
+
+}
+.microsoft{
+  position: absolute;
+  top: 3010px;
+  left: 720px;
+  width:130px;
+
+}
+.hp{
+  position: absolute;
+  top: 3000px;
+  left: 960px;
+  width:130px;
+}
+.vector{
+  position: absolute;
+  top: 3010px;
+  left: 1160px;
+  width:130px;
+}
+.clip{
+  position: absolute;
+  top: 3210px;
+  left: 540px;
+
+}
+.Available{
+  position: absolute;
+  top: 3280px;
+  left: 470px;
+  opacity: 50%;
+}
+.available{
+  position: absolute;
+  top: 3300px;
+  left: 590px;
+  opacity: 50%;
+}
+.ioos{
+  position: absolute;
+  top: 3400px;
+  left: 570px;
+  border-radius: 20px;
+  height:30px;
+  width:150px;
+  background-color: hsl(171, 66%, 44%);
+
+}
+.maac{
+  position: absolute;
+  top:3400px;
+  left: 740px;
+  border-radius: 20px;
+  height: 30px;
+  width: 150px;
+  background-color: hsl(233, 100%, 69%);
+
+}
+.ioss{
+  position: absolute;
+  top: 3410px;
+  left: 20px;
+color: white;
+
+}
+.macc{
+  position: absolute;
+  top: 3410px;
+  left: 20px;
+color: white;
+}
+.bottom{
+  position:absolute;
+  top: 3600px;
+  height: 200px;
+  width: 100%;
+ background-color:  hsl(201, 11%, 95%);
+}
+.cc{
+position: absolute;
+bottom: 30px;
+left: 240px;
+width: 40px;
+}
+.FAQs{
+  position: absolute;
+  top:3700px;
+  left: 400px;
+}
+.Contact{
+
+  position: absolute;
+  top:3740px;
+  left: 400px;
+}
+.Privacy{
+  position: absolute;
+  top:3700px;
+  left: 600px;
+}
+.Press{
+  position: absolute;
+  top:3740px;
+  left: 600px;
+}
+.Install{
+  position: absolute;
+  top:3700px;
+  left: 760px;
+}
+.fb{
+  position: absolute;
+  top:3730px;
+  left: 1150px;
+}
+.twitter{
+  position: absolute;
+  top:3730px;
+  left: 1200px;
+}
+.instagram{
+  position: absolute;
+  top:3730px;
+  left: 1250px;
+
+}
